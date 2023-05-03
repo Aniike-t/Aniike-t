@@ -22,4 +22,4 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-- 📫 How to reach me: aniketvm1103@gmail.com
+- 📫 How to reach me: aniketvm1104@gmail.com
