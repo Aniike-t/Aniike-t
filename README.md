@@ -7,10 +7,7 @@
 * Learning Data Structures And Algorithms 
 * ⚡Fun fact: Excited to learn about Space and Galaxies
 
-
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-
-![](https://leetcard.jacoblin.cool/aniket1104?theme=dark&font=IBM%20Plex%20Sans&ext=heatmap)
+xt=heatmap)
 
 ## Languages
 
