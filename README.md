@@ -6,6 +6,7 @@
 * ML and Web Enthusiast
 * Learning Data Structures And Algorithms 
 * ⚡Fun fact: Excited to learn about Space and Galaxies
+* HTML CSS JS Game-Dev
 
 ## Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniike-t&layout=compact)
