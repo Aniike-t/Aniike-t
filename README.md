@@ -3,9 +3,9 @@
 ### Software Developer | AI/ML & Systems
 
 <p align="left">
-  <img src="koi/koi.gif" width="256" alt="Aniket's git-koi" />
-  <br>
-  <em><a href="https://github.com/yalongwastaken/git-koi">git-koi</a></em>
+  <img src="koi/koi.gif" height="165" alt="Aniket's git-koi" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Aniike-t&layout=compact&hide=Jupyter%20Notebook&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -24,12 +24,12 @@
 <p align="left">
   <b>Languages & Databases</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,dart,postgres,redis" alt="Languages & Databases" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,dart,postgres,redis,mysql" alt="Languages & Databases" />
   </a>
   <br><br>
   <b>Frameworks, Tools & Cloud</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,react,flutter,docker,aws" alt="Frameworks & Tools" />
+    <img src="https://skillicons.dev/icons?i=django,react,flutter,docker,aws,azure" alt="Frameworks & Tools" />
   </a>
 </p>
 
