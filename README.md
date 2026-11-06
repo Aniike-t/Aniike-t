@@ -1,27 +1,44 @@
 # Hi there 👋, I'm Aniket Mahajan  
 
-## 🎓 Currently Pursuing Bachelor's In Information Technology  
+### Software Developer | AI/ML & Systems
 
-- 🚀 Lifelong Learner
-- 🤖 AIML | 🌐 Web | ☁️ Cloud
-- 🎮 Game Dev Enthusiast
-- 📚 Philomath | Always Curious
-- 🌌 Fun Fact: Fascinated by Space and Galaxies
+<p align="left">
+  <img src="koi/koi.gif" width="256" alt="Aniket's git-koi" />
+  <br>
+  <em><a href="https://github.com/yalongwastaken/git-koi">git-koi</a></em>
+</p>
 
-<p align="center">
-  <h3>Languages</h3><br>
+---
+
+### About Me
+
+- **Software Developer** at **Larsen & Toubro**
+- Former Project Trainee at **BARC**
+- **B.E. in Information Technology** with a Minor in **AI & Machine Learning** — Vidyalankar Institute of Technology, Mumbai
+- Philomath | Always curious & fascinated by Space and Galaxies
+
+---
+
+### Tech Stack
+
+<p align="left">
+  <b>Languages & Databases</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,python,html,css,javascript" /><br>
+    <img src="https://skillicons.dev/icons?i=python,js,dart,postgres,redis" alt="Languages & Databases" />
   </a>
-  
-  <h3>Frameworks and Technologies</h3><br>
+  <br><br>
+  <b>Frameworks, Tools & Cloud</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,aws,mysql,flask,django,bootstrap,mongodb,express,react,nodejs,threejs" />
+    <img src="https://skillicons.dev/icons?i=django,react,flutter,docker,aws" alt="Frameworks & Tools" />
   </a>
 </p>
 
-<p align="flex-start">
+---
+
+### Connect With Me
+
+- How to reach me: <aniketvm1104@gmail.com>  
+
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Aniike-t&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
-
-- 📫 How to reach me: aniketvm1104@gmail.com  
