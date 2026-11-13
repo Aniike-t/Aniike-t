@@ -24,12 +24,12 @@
 <p align="left">
   <b>Languages & Databases</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,dart,postgres,redis,mysql" alt="Languages & Databases" />
+    <img src="https://skillicons.dev/icons?i=c,python,js,dart,php,postgres,redis,mysql" alt="Languages & Databases" />
   </a>
   <br><br>
   <b>Frameworks, Tools & Cloud</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,react,flutter,docker,aws,azure" alt="Frameworks & Tools" />
+    <img src="https://skillicons.dev/icons?i=django,react,flutter,docker,aws,azure,postman,nginx,rabbitmq" alt="Frameworks & Tools" />
   </a>
 </p>
 
